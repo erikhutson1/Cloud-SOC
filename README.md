@@ -70,17 +70,17 @@ Stop Time 2024-05-22 16:35:46
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
 
-Start Time 
+Start Time 2024-05-25T01:54:58.3141679Z
 
-Stop Time	
+Stop Time	2024-05-26T01:54:58.3141679Z
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | TBD
-| Syslog                   | TBD
-| SecurityAlert            | TBD
-| SecurityIncident         | TBD
-| AzureNetworkAnalytics_CL | TBD
+| SecurityEvent            | 0
+| Syslog                   | 5
+| SecurityAlert            | 0
+| SecurityIncident         | 0
+| AzureNetworkAnalytics_CL | 25
 
 ## Conclusion
 
